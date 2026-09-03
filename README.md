@@ -136,5 +136,7 @@ Number of Elements:
 Version History
 
 September 1, 2026 - Initial Commit
+
 September 2, 2026 - Drafted Readme, Uploaded Final Code
-September 3, 2026 - Finalized Readme, Uploaded inpy files, Finalized Code
+
+September 3, 2026 - Finalized Readme, Uploaded npy files, Finalized Code
